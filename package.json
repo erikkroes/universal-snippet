@@ -1,0 +1,21 @@
+{
+  "name": "@erikkroes/universal-snippet",
+  "version": "0.0.1",
+  "description": "Bringing the web together, 1 snippet at a time.",
+  "main": "universal-snippet.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erikkroes/universal-snippet.git"
+  },
+  "keywords": [
+    "custom element",
+    "web components",
+    "fancy iframe"
+  ],
+  "author": "Erik Kroes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/erikkroes/universal-snippet/issues"
+  },
+  "homepage": "https://github.com/erikkroes/universal-snippet#readme"
+}
